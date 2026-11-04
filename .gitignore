@@ -9,3 +9,6 @@ yarn-error.log*
 pnpm-debug.log*
 *.log
 tsconfig.tsbuildinfo
+
+# Local browser profiles must never enter source control
+chrome-temp-profile*/
